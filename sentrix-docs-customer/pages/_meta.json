@@ -1,0 +1,10 @@
+{
+  "index": "Introduction",
+  "another": "Another Page",
+  "contact": {
+    "title": "Website ↗",
+    "type": "page",
+    "href": "https://sentrix.cc",
+    "newWindow": true
+  }
+}
